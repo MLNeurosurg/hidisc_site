@@ -1,4 +1,0 @@
----
-layout: index
-notitle: true
----
